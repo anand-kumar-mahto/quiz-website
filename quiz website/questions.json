@@ -1,0 +1,1963 @@
+{
+    "General Knowledge": [
+        {
+            "question": "What is the capital of Australia?",
+            "options": [
+                {
+                    "text": "Sydney",
+                    "correct": false
+                },
+                {
+                    "text": "Melbourne",
+                    "correct": false
+                },
+                {
+                    "text": "Canberra",
+                    "correct": true
+                },
+                {
+                    "text": "Brisbane",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                {
+                    "text": "Venus",
+                    "correct": false
+                },
+                {
+                    "text": "Mars",
+                    "correct": true
+                },
+                {
+                    "text": "Jupiter",
+                    "correct": false
+                },
+                {
+                    "text": "Saturn",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "options": [
+                {
+                    "text": "Atlantic Ocean",
+                    "correct": false
+                },
+                {
+                    "text": "Indian Ocean",
+                    "correct": false
+                },
+                {
+                    "text": "Arctic Ocean",
+                    "correct": false
+                },
+                {
+                    "text": "Pacific Ocean",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Which element has the chemical symbol 'O'?",
+            "options": [
+                {
+                    "text": "Gold",
+                    "correct": false
+                },
+                {
+                    "text": "Oxygen",
+                    "correct": true
+                },
+                {
+                    "text": "Osmium",
+                    "correct": false
+                },
+                {
+                    "text": "Oganesson",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What year did the Titanic sink?",
+            "options": [
+                {
+                    "text": "1912",
+                    "correct": true
+                },
+                {
+                    "text": "1911",
+                    "correct": false
+                },
+                {
+                    "text": "1913",
+                    "correct": false
+                },
+                {
+                    "text": "1914",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": [
+                {
+                    "text": "William Shakespeare",
+                    "correct": true
+                },
+                {
+                    "text": "Charles Dickens",
+                    "correct": false
+                },
+                {
+                    "text": "J.K. Rowling",
+                    "correct": false
+                },
+                {
+                    "text": "Mark Twain",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which country is the largest by land area?",
+            "options": [
+                {
+                    "text": "Canada",
+                    "correct": false
+                },
+                {
+                    "text": "United States",
+                    "correct": false
+                },
+                {
+                    "text": "China",
+                    "correct": false
+                },
+                {
+                    "text": "Russia",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "What is the smallest unit of life?",
+            "options": [
+                {
+                    "text": "Atom",
+                    "correct": false
+                },
+                {
+                    "text": "Cell",
+                    "correct": true
+                },
+                {
+                    "text": "Molecule",
+                    "correct": false
+                },
+                {
+                    "text": "Organ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which artist painted the Mona Lisa?",
+            "options": [
+                {
+                    "text": "Vincent van Gogh",
+                    "correct": false
+                },
+                {
+                    "text": "Pablo Picasso",
+                    "correct": false
+                },
+                {
+                    "text": "Leonardo da Vinci",
+                    "correct": true
+                },
+                {
+                    "text": "Michelangelo",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the main ingredient in guacamole?",
+            "options": [
+                {
+                    "text": "Tomato",
+                    "correct": false
+                },
+                {
+                    "text": "Avocado",
+                    "correct": true
+                },
+                {
+                    "text": "Pepper",
+                    "correct": false
+                },
+                {
+                    "text": "Onion",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the chemical formula for table salt?",
+            "options": [
+                {
+                    "text": "NaCl",
+                    "correct": true
+                },
+                {
+                    "text": "KCl",
+                    "correct": false
+                },
+                {
+                    "text": "Na2SO4",
+                    "correct": false
+                },
+                {
+                    "text": "CaCO3",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which element is the most abundant in the Earth’s crust?",
+            "options": [
+                {
+                    "text": "Iron",
+                    "correct": false
+                },
+                {
+                    "text": "Silicon",
+                    "correct": false
+                },
+                {
+                    "text": "Oxygen",
+                    "correct": true
+                },
+                {
+                    "text": "Aluminum",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "options": [
+                {
+                    "text": "Amazon River",
+                    "correct": false
+                },
+                {
+                    "text": "Nile River",
+                    "correct": true
+                },
+                {
+                    "text": "Yangtze River",
+                    "correct": false
+                },
+                {
+                    "text": "Mississippi River",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which is the smallest country in the world by land area?",
+            "options": [
+                {
+                    "text": "Monaco",
+                    "correct": false
+                },
+                {
+                    "text": "Vatican City",
+                    "correct": true
+                },
+                {
+                    "text": "San Marino",
+                    "correct": false
+                },
+                {
+                    "text": "Liechtenstein",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": [
+                {
+                    "text": "Gold",
+                    "correct": false
+                },
+                {
+                    "text": "Diamond",
+                    "correct": true
+                },
+                {
+                    "text": "Iron",
+                    "correct": false
+                },
+                {
+                    "text": "Platinum",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which planet is known for having the most moons?",
+            "options": [
+                {
+                    "text": "Mars",
+                    "correct": false
+                },
+                {
+                    "text": "Saturn",
+                    "correct": true
+                },
+                {
+                    "text": "Jupiter",
+                    "correct": false
+                },
+                {
+                    "text": "Uranus",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Who is considered the father of modern physics?",
+            "options": [
+                {
+                    "text": "Isaac Newton",
+                    "correct": false
+                },
+                {
+                    "text": "Albert Einstein",
+                    "correct": true
+                },
+                {
+                    "text": "Galileo Galilei",
+                    "correct": false
+                },
+                {
+                    "text": "Nikola Tesla",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which ocean is the smallest?",
+            "options": [
+                {
+                    "text": "Indian Ocean",
+                    "correct": false
+                },
+                {
+                    "text": "Arctic Ocean",
+                    "correct": true
+                },
+                {
+                    "text": "Pacific Ocean",
+                    "correct": false
+                },
+                {
+                    "text": "Atlantic Ocean",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the main language spoken in Brazil?",
+            "options": [
+                {
+                    "text": "Spanish",
+                    "correct": false
+                },
+                {
+                    "text": "Portuguese",
+                    "correct": true
+                },
+                {
+                    "text": "English",
+                    "correct": false
+                },
+                {
+                    "text": "French",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "options": [
+                {
+                    "text": "Sahara Desert",
+                    "correct": false
+                },
+                {
+                    "text": "Gobi Desert",
+                    "correct": false
+                },
+                {
+                    "text": "Antarctic Desert",
+                    "correct": true
+                },
+                {
+                    "text": "Arabian Desert",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+                {
+                    "text": "China",
+                    "correct": false
+                },
+                {
+                    "text": "Japan",
+                    "correct": true
+                },
+                {
+                    "text": "South Korea",
+                    "correct": false
+                },
+                {
+                    "text": "Thailand",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "options": [
+                {
+                    "text": "Toronto",
+                    "correct": false
+                },
+                {
+                    "text": "Vancouver",
+                    "correct": false
+                },
+                {
+                    "text": "Ottawa",
+                    "correct": true
+                },
+                {
+                    "text": "Montreal",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which planet is known as the Morning Star?",
+            "options": [
+                {
+                    "text": "Mercury",
+                    "correct": false
+                },
+                {
+                    "text": "Venus",
+                    "correct": true
+                },
+                {
+                    "text": "Mars",
+                    "correct": false
+                },
+                {
+                    "text": "Saturn",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the chemical symbol for Sodium?",
+            "options": [
+                {
+                    "text": "Na",
+                    "correct": true
+                },
+                {
+                    "text": "S",
+                    "correct": false
+                },
+                {
+                    "text": "So",
+                    "correct": false
+                },
+                {
+                    "text": "Sd",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which country has the longest coastline?",
+            "options": [
+                {
+                    "text": "Canada",
+                    "correct": true
+                },
+                {
+                    "text": "Russia",
+                    "correct": false
+                },
+                {
+                    "text": "Australia",
+                    "correct": false
+                },
+                {
+                    "text": "United States",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Who is the author of 'Harry Potter' series?",
+            "options": [
+                {
+                    "text": "J.K. Rowling",
+                    "correct": true
+                },
+                {
+                    "text": "J.R.R. Tolkien",
+                    "correct": false
+                },
+                {
+                    "text": "C.S. Lewis",
+                    "correct": false
+                },
+                {
+                    "text": "George R.R. Martin",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the main ingredient in sushi?",
+            "options": [
+                {
+                    "text": "Chicken",
+                    "correct": false
+                },
+                {
+                    "text": "Beef",
+                    "correct": false
+                },
+                {
+                    "text": "Rice",
+                    "correct": true
+                },
+                {
+                    "text": "Pasta",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the name of the world's largest rainforest?",
+            "options": [
+                {
+                    "text": "Congo Rainforest",
+                    "correct": false
+                },
+                {
+                    "text": "Amazon Rainforest",
+                    "correct": true
+                },
+                {
+                    "text": "Daintree Rainforest",
+                    "correct": false
+                },
+                {
+                    "text": "Valdivian Temperate Rainforest",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Who was the 16th President of the United States?",
+            "options": [
+                {
+                    "text": "Abraham Lincoln",
+                    "correct": true
+                },
+                {
+                    "text": "George Washington",
+                    "correct": false
+                },
+                {
+                    "text": "Thomas Jefferson",
+                    "correct": false
+                },
+                {
+                    "text": "James Madison",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which city is known as the City of Lights?",
+            "options": [
+                {
+                    "text": "Paris",
+                    "correct": true
+                },
+                {
+                    "text": "New York",
+                    "correct": false
+                },
+                {
+                    "text": "London",
+                    "correct": false
+                },
+                {
+                    "text": "Tokyo",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the smallest bone in the human body?",
+            "options": [
+                {
+                    "text": "Stapes",
+                    "correct": true
+                },
+                {
+                    "text": "Hammer",
+                    "correct": false
+                },
+                {
+                    "text": "Anvil",
+                    "correct": false
+                },
+                {
+                    "text": "Femur",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the capital city of Italy?",
+            "options": [
+                {
+                    "text": "Rome",
+                    "correct": true
+                },
+                {
+                    "text": "Venice",
+                    "correct": false
+                },
+                {
+                    "text": "Florence",
+                    "correct": false
+                },
+                {
+                    "text": "Milan",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the largest species of shark?",
+            "options": [
+                {
+                    "text": "Great White Shark",
+                    "correct": false
+                },
+                {
+                    "text": "Hammerhead Shark",
+                    "correct": false
+                },
+                {
+                    "text": "Whale Shark",
+                    "correct": true
+                },
+                {
+                    "text": "Tiger Shark",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which organ in the human body is responsible for producing insulin?",
+            "options": [
+                {
+                    "text": "Heart",
+                    "correct": false
+                },
+                {
+                    "text": "Liver",
+                    "correct": false
+                },
+                {
+                    "text": "Pancreas",
+                    "correct": true
+                },
+                {
+                    "text": "Kidneys",
+                    "correct": false
+                }
+            ]
+        }
+    ],
+    "Current Events": [
+        {
+            "question": "Who is the current President of the United States?",
+            "options": [
+                {
+                    "text": "Joe Biden",
+                    "correct": true
+                },
+                {
+                    "text": "Donald Trump",
+                    "correct": false
+                },
+                {
+                    "text": "Barack Obama",
+                    "correct": false
+                },
+                {
+                    "text": "George W. Bush",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which country recently hosted the Summer Olympics?",
+            "options": [
+                {
+                    "text": "China",
+                    "correct": false
+                },
+                {
+                    "text": "Japan",
+                    "correct": true
+                },
+                {
+                    "text": "Brazil",
+                    "correct": false
+                },
+                {
+                    "text": "France",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which tech company recently announced a major breakthrough in AI technology?",
+            "options": [
+                {
+                    "text": "Microsoft",
+                    "correct": false
+                },
+                {
+                    "text": "Google",
+                    "correct": true
+                },
+                {
+                    "text": "Apple",
+                    "correct": false
+                },
+                {
+                    "text": "Amazon",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What major event took place in the global climate agreement in 2023?",
+            "options": [
+                {
+                    "text": "A new target was set for carbon emissions",
+                    "correct": true
+                },
+                {
+                    "text": "A major trade agreement was signed",
+                    "correct": false
+                },
+                {
+                    "text": "A new space exploration mission was launched",
+                    "correct": false
+                },
+                {
+                    "text": "A world health crisis was declared",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Who won the 2024 Presidential election in France?",
+            "options": [
+                {
+                    "text": "Emmanuel Macron",
+                    "correct": true
+                },
+                {
+                    "text": "Marine Le Pen",
+                    "correct": false
+                },
+                {
+                    "text": "Jean-Luc Mélenchon",
+                    "correct": false
+                },
+                {
+                    "text": "François Fillon",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which country recently experienced a major earthquake?",
+            "options": [
+                {
+                    "text": "Turkey",
+                    "correct": true
+                },
+                {
+                    "text": "Japan",
+                    "correct": false
+                },
+                {
+                    "text": "Chile",
+                    "correct": false
+                },
+                {
+                    "text": "Indonesia",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which streaming platform released a highly anticipated TV series in 2024?",
+            "options": [
+                {
+                    "text": "Netflix",
+                    "correct": true
+                },
+                {
+                    "text": "Hulu",
+                    "correct": false
+                },
+                {
+                    "text": "Disney+",
+                    "correct": false
+                },
+                {
+                    "text": "HBO Max",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What new technology is being used to combat global food shortages?",
+            "options": [
+                {
+                    "text": "Vertical farming",
+                    "correct": true
+                },
+                {
+                    "text": "Gene editing",
+                    "correct": false
+                },
+                {
+                    "text": "Blockchain",
+                    "correct": false
+                },
+                {
+                    "text": "Artificial intelligence",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which international summit focused on renewable energy in 2024?",
+            "options": [
+                {
+                    "text": "G20 Summit",
+                    "correct": false
+                },
+                {
+                    "text": "COP28",
+                    "correct": true
+                },
+                {
+                    "text": "World Economic Forum",
+                    "correct": false
+                },
+                {
+                    "text": "UN General Assembly",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What was the main topic of discussion at the 2024 Davos Forum?",
+            "options": [
+                {
+                    "text": "Climate Change",
+                    "correct": true
+                },
+                {
+                    "text": "Global Trade Agreements",
+                    "correct": false
+                },
+                {
+                    "text": "Technological Innovation",
+                    "correct": false
+                },
+                {
+                    "text": "Healthcare Advancements",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Who won the 2024 Nobel Peace Prize?",
+            "options": [
+                {
+                    "text": "A global health organization",
+                    "correct": true
+                },
+                {
+                    "text": "An environmental activist",
+                    "correct": false
+                },
+                {
+                    "text": "A political leader",
+                    "correct": false
+                },
+                {
+                    "text": "A technology company",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which major company recently launched a new electric vehicle model?",
+            "options": [
+                {
+                    "text": "Tesla",
+                    "correct": true
+                },
+                {
+                    "text": "Ford",
+                    "correct": false
+                },
+                {
+                    "text": "General Motors",
+                    "correct": false
+                },
+                {
+                    "text": "BMW",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What significant legal change was introduced in the United Kingdom in 2024?",
+            "options": [
+                {
+                    "text": "New immigration laws",
+                    "correct": false
+                },
+                {
+                    "text": "Legalization of same-sex marriage",
+                    "correct": false
+                },
+                {
+                    "text": "Expansion of renewable energy targets",
+                    "correct": true
+                },
+                {
+                    "text": "Increase in minimum wage",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the latest development in space exploration?",
+            "options": [
+                {
+                    "text": "A new Mars rover",
+                    "correct": false
+                },
+                {
+                    "text": "A lunar base established",
+                    "correct": true
+                },
+                {
+                    "text": "A space tourism mission launched",
+                    "correct": false
+                },
+                {
+                    "text": "Discovery of a new exoplanet",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which country recently achieved a major milestone in clean energy production?",
+            "options": [
+                {
+                    "text": "Germany",
+                    "correct": true
+                },
+                {
+                    "text": "United States",
+                    "correct": false
+                },
+                {
+                    "text": "China",
+                    "correct": false
+                },
+                {
+                    "text": "India",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Who is the newly appointed Secretary-General of the United Nations?",
+            "options": [
+                {
+                    "text": "Antonio Guterres",
+                    "correct": false
+                },
+                {
+                    "text": "Ban Ki-moon",
+                    "correct": false
+                },
+                {
+                    "text": "Kofi Annan",
+                    "correct": false
+                },
+                {
+                    "text": "Amina J. Mohammed",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "What significant breakthrough was announced in medical science in 2024?",
+            "options": [
+                {
+                    "text": "Cure for cancer",
+                    "correct": false
+                },
+                {
+                    "text": "Advancements in gene therapy",
+                    "correct": true
+                },
+                {
+                    "text": "New vaccine for COVID-19",
+                    "correct": false
+                },
+                {
+                    "text": "Development of a universal flu vaccine",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which company recently made headlines for its new AI chatbot?",
+            "options": [
+                {
+                    "text": "IBM",
+                    "correct": false
+                },
+                {
+                    "text": "Google",
+                    "correct": true
+                },
+                {
+                    "text": "Microsoft",
+                    "correct": false
+                },
+                {
+                    "text": "Amazon",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What was the main theme of the 2024 World Health Day?",
+            "options": [
+                {
+                    "text": "Mental Health",
+                    "correct": true
+                },
+                {
+                    "text": "Global Vaccination",
+                    "correct": false
+                },
+                {
+                    "text": "Water Safety",
+                    "correct": false
+                },
+                {
+                    "text": "Nutrition and Obesity",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which country recently experienced a major political upheaval?",
+            "options": [
+                {
+                    "text": "Brazil",
+                    "correct": false
+                },
+                {
+                    "text": "Myanmar",
+                    "correct": true
+                },
+                {
+                    "text": "Nigeria",
+                    "correct": false
+                },
+                {
+                    "text": "Russia",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the latest trend in digital currency?",
+            "options": [
+                {
+                    "text": "Cryptocurrency regulation",
+                    "correct": true
+                },
+                {
+                    "text": "New forms of blockchain technology",
+                    "correct": false
+                },
+                {
+                    "text": "Adoption of digital currencies by banks",
+                    "correct": false
+                },
+                {
+                    "text": "Development of central bank digital currencies",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which environmental initiative gained significant support in 2024?",
+            "options": [
+                {
+                    "text": "Global reforestation projects",
+                    "correct": true
+                },
+                {
+                    "text": "Ocean clean-up campaigns",
+                    "correct": false
+                },
+                {
+                    "text": "Plastic waste reduction policies",
+                    "correct": false
+                },
+                {
+                    "text": "Renewable energy subsidies",
+                    "correct": false
+                }
+            ]
+        }
+    ],
+    "Pop Culture": [
+        {
+            "question": "Which movie won the Best Picture award at the 2024 Oscars?",
+            "options": [
+                {
+                    "text": "The Fabelmans",
+                    "correct": false
+                },
+                {
+                    "text": "Avatar: The Way of Water",
+                    "correct": false
+                },
+                {
+                    "text": "Dune Part Two",
+                    "correct": true
+                },
+                {
+                    "text": "Elvis",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which artist released the hit single 'Best Day of My Life' in 2024?",
+            "options": [
+                {
+                    "text": "Taylor Swift",
+                    "correct": false
+                },
+                {
+                    "text": "Ed Sheeran",
+                    "correct": true
+                },
+                {
+                    "text": "Adele",
+                    "correct": false
+                },
+                {
+                    "text": "Bruno Mars",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What TV series became a global sensation in 2024?",
+            "options": [
+                {
+                    "text": "Stranger Things",
+                    "correct": false
+                },
+                {
+                    "text": "The Last of Us",
+                    "correct": true
+                },
+                {
+                    "text": "Succession",
+                    "correct": false
+                },
+                {
+                    "text": "House of the Dragon",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which celebrity recently got engaged to a prominent tech entrepreneur?",
+            "options": [
+                {
+                    "text": "Rihanna",
+                    "correct": false
+                },
+                {
+                    "text": "Jennifer Lopez",
+                    "correct": true
+                },
+                {
+                    "text": "Kylie Jenner",
+                    "correct": false
+                },
+                {
+                    "text": "Zendaya",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which book series concluded in 2024 with its final installment?",
+            "options": [
+                {
+                    "text": "The Hunger Games",
+                    "correct": false
+                },
+                {
+                    "text": "A Song of Ice and Fire",
+                    "correct": false
+                },
+                {
+                    "text": "Percy Jackson",
+                    "correct": false
+                },
+                {
+                    "text": "The Divergent Series",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "What is the title of the latest Marvel Cinematic Universe film?",
+            "options": [
+                {
+                    "text": "Guardians of the Galaxy Vol. 4",
+                    "correct": false
+                },
+                {
+                    "text": "Ant-Man and the Wasp: Quantumania",
+                    "correct": false
+                },
+                {
+                    "text": "Doctor Strange in the Multiverse of Madness",
+                    "correct": false
+                },
+                {
+                    "text": "The Marvels",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Which video game became a top seller in 2024?",
+            "options": [
+                {
+                    "text": "Elden Ring",
+                    "correct": false
+                },
+                {
+                    "text": "Grand Theft Auto VI",
+                    "correct": true
+                },
+                {
+                    "text": "Hogwarts Legacy",
+                    "correct": false
+                },
+                {
+                    "text": "Call of Duty: Modern Warfare II",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which fashion designer made headlines for their new collection in 2024?",
+            "options": [
+                {
+                    "text": "Chanel",
+                    "correct": false
+                },
+                {
+                    "text": "Gucci",
+                    "correct": false
+                },
+                {
+                    "text": "Louis Vuitton",
+                    "correct": true
+                },
+                {
+                    "text": "Versace",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What major sports event took place in 2024?",
+            "options": [
+                {
+                    "text": "The FIFA World Cup",
+                    "correct": false
+                },
+                {
+                    "text": "The Summer Olympics",
+                    "correct": true
+                },
+                {
+                    "text": "The Winter Olympics",
+                    "correct": false
+                },
+                {
+                    "text": "The Rugby World Cup",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which streaming service launched a new documentary series about space exploration?",
+            "options": [
+                {
+                    "text": "Disney+",
+                    "correct": false
+                },
+                {
+                    "text": "Hulu",
+                    "correct": false
+                },
+                {
+                    "text": "Amazon Prime Video",
+                    "correct": true
+                },
+                {
+                    "text": "HBO Max",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Who won the Grammy Award for Album of the Year in 2024?",
+            "options": [
+                {
+                    "text": "Adele",
+                    "correct": false
+                },
+                {
+                    "text": "Taylor Swift",
+                    "correct": false
+                },
+                {
+                    "text": "Ed Sheeran",
+                    "correct": true
+                },
+                {
+                    "text": "Billie Eilish",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What was the theme of the 2024 Met Gala?",
+            "options": [
+                {
+                    "text": "Gilded Glamour",
+                    "correct": false
+                },
+                {
+                    "text": "A New Era",
+                    "correct": false
+                },
+                {
+                    "text": "Revolutionary Fashion",
+                    "correct": true
+                },
+                {
+                    "text": "A Journey Through Time",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which social media platform introduced a new feature in 2024 allowing users to create interactive stories?",
+            "options": [
+                {
+                    "text": "Instagram",
+                    "correct": true
+                },
+                {
+                    "text": "TikTok",
+                    "correct": false
+                },
+                {
+                    "text": "Snapchat",
+                    "correct": false
+                },
+                {
+                    "text": "Twitter",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which actor received acclaim for their role in the 2024 film 'The Last Stand'?",
+            "options": [
+                {
+                    "text": "Tom Hanks",
+                    "correct": false
+                },
+                {
+                    "text": "Denzel Washington",
+                    "correct": false
+                },
+                {
+                    "text": "Will Smith",
+                    "correct": true
+                },
+                {
+                    "text": "Leonardo DiCaprio",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which book won the Pulitzer Prize for Fiction in 2024?",
+            "options": [
+                {
+                    "text": "The Night Circus",
+                    "correct": false
+                },
+                {
+                    "text": "Circe",
+                    "correct": false
+                },
+                {
+                    "text": "The Overstory",
+                    "correct": false
+                },
+                {
+                    "text": "The Great Escape",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "What popular TV show ended its run in 2024?",
+            "options": [
+                {
+                    "text": "Friends",
+                    "correct": false
+                },
+                {
+                    "text": "Breaking Bad",
+                    "correct": false
+                },
+                {
+                    "text": "The Big Bang Theory",
+                    "correct": false
+                },
+                {
+                    "text": "Game of Thrones",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Which new streaming platform gained popularity in 2024?",
+            "options": [
+                {
+                    "text": "Peacock",
+                    "correct": false
+                },
+                {
+                    "text": "Paramount+",
+                    "correct": false
+                },
+                {
+                    "text": "Discovery+",
+                    "correct": false
+                },
+                {
+                    "text": "HBO Max",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Which artist released the album 'Echoes of Tomorrow' in 2024?",
+            "options": [
+                {
+                    "text": "Beyoncé",
+                    "correct": false
+                },
+                {
+                    "text": "Drake",
+                    "correct": true
+                },
+                {
+                    "text": "Ariana Grande",
+                    "correct": false
+                },
+                {
+                    "text": "Kanye West",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which reality TV show became a cultural phenomenon in 2024?",
+            "options": [
+                {
+                    "text": "The Bachelor",
+                    "correct": false
+                },
+                {
+                    "text": "Survivor",
+                    "correct": false
+                },
+                {
+                    "text": "The Great British Bake Off",
+                    "correct": true
+                },
+                {
+                    "text": "RuPaul's Drag Race",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What was the highest-grossing film of 2024?",
+            "options": [
+                {
+                    "text": "Avatar: The Way of Water",
+                    "correct": false
+                },
+                {
+                    "text": "Spider-Man: Across the Spider-Verse",
+                    "correct": true
+                },
+                {
+                    "text": "The Batman",
+                    "correct": false
+                },
+                {
+                    "text": "No Time to Die",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which fashion trend dominated 2024?",
+            "options": [
+                {
+                    "text": "Sustainable fashion",
+                    "correct": true
+                },
+                {
+                    "text": "Retro 80s styles",
+                    "correct": false
+                },
+                {
+                    "text": "Minimalist fashion",
+                    "correct": false
+                },
+                {
+                    "text": "High-tech activewear",
+                    "correct": false
+                }
+            ]
+        }
+    ],
+    "Science And Technology": [
+        {
+            "question": "What is the primary purpose of CRISPR technology?",
+            "options": [
+                {
+                    "text": "Gene editing",
+                    "correct": true
+                },
+                {
+                    "text": "Space exploration",
+                    "correct": false
+                },
+                {
+                    "text": "Renewable energy production",
+                    "correct": false
+                },
+                {
+                    "text": "Artificial intelligence",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which company recently announced a breakthrough in quantum computing?",
+            "options": [
+                {
+                    "text": "IBM",
+                    "correct": true
+                },
+                {
+                    "text": "Microsoft",
+                    "correct": false
+                },
+                {
+                    "text": "Google",
+                    "correct": false
+                },
+                {
+                    "text": "Intel",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the function of a blockchain in cryptocurrency?",
+            "options": [
+                {
+                    "text": "Data storage",
+                    "correct": false
+                },
+                {
+                    "text": "Transaction verification",
+                    "correct": true
+                },
+                {
+                    "text": "Market analysis",
+                    "correct": false
+                },
+                {
+                    "text": "Advertising",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which rover recently landed on Mars to explore its surface?",
+            "options": [
+                {
+                    "text": "Curiosity",
+                    "correct": false
+                },
+                {
+                    "text": "Perseverance",
+                    "correct": true
+                },
+                {
+                    "text": "Opportunity",
+                    "correct": false
+                },
+                {
+                    "text": "Spirit",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What new technology is being developed to enhance virtual reality experiences?",
+            "options": [
+                {
+                    "text": "Haptic feedback",
+                    "correct": true
+                },
+                {
+                    "text": "Augmented reality",
+                    "correct": false
+                },
+                {
+                    "text": "Artificial intelligence",
+                    "correct": false
+                },
+                {
+                    "text": "Blockchain",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the main goal of the Human Genome Project?",
+            "options": [
+                {
+                    "text": "Mapping the entire human genome",
+                    "correct": true
+                },
+                {
+                    "text": "Developing new medical treatments",
+                    "correct": false
+                },
+                {
+                    "text": "Creating artificial intelligence",
+                    "correct": false
+                },
+                {
+                    "text": "Exploring outer space",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which technology is commonly used for facial recognition?",
+            "options": [
+                {
+                    "text": "Infrared scanning",
+                    "correct": false
+                },
+                {
+                    "text": "Biometric algorithms",
+                    "correct": true
+                },
+                {
+                    "text": "Radiofrequency identification",
+                    "correct": false
+                },
+                {
+                    "text": "Magnetic resonance imaging",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the primary use of artificial intelligence in healthcare?",
+            "options": [
+                {
+                    "text": "Diagnosing diseases",
+                    "correct": true
+                },
+                {
+                    "text": "Managing hospital administration",
+                    "correct": false
+                },
+                {
+                    "text": "Developing new drugs",
+                    "correct": false
+                },
+                {
+                    "text": "Designing medical devices",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which company recently developed a new type of battery technology?",
+            "options": [
+                {
+                    "text": "Tesla",
+                    "correct": true
+                },
+                {
+                    "text": "Panasonic",
+                    "correct": false
+                },
+                {
+                    "text": "Samsung",
+                    "correct": false
+                },
+                {
+                    "text": "LG",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the key feature of 5G technology?",
+            "options": [
+                {
+                    "text": "High-speed data transmission",
+                    "correct": true
+                },
+                {
+                    "text": "Enhanced security protocols",
+                    "correct": false
+                },
+                {
+                    "text": "Longer battery life",
+                    "correct": false
+                },
+                {
+                    "text": "Improved camera quality",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which recent technology is being used to improve agricultural productivity?",
+            "options": [
+                {
+                    "text": "Drones",
+                    "correct": true
+                },
+                {
+                    "text": "Nanotechnology",
+                    "correct": false
+                },
+                {
+                    "text": "3D printing",
+                    "correct": false
+                },
+                {
+                    "text": "Augmented reality",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which company recently launched a new line of smart home devices?",
+            "options": [
+                {
+                    "text": "Apple",
+                    "correct": true
+                },
+                {
+                    "text": "Google",
+                    "correct": false
+                },
+                {
+                    "text": "Amazon",
+                    "correct": false
+                },
+                {
+                    "text": "Microsoft",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the primary function of an electric vehicle's regenerative braking system?",
+            "options": [
+                {
+                    "text": "Charging the battery",
+                    "correct": true
+                },
+                {
+                    "text": "Increasing acceleration",
+                    "correct": false
+                },
+                {
+                    "text": "Enhancing comfort",
+                    "correct": false
+                },
+                {
+                    "text": "Improving aerodynamics",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What recent advancement has been made in brain-computer interfaces?",
+            "options": [
+                {
+                    "text": "Enhanced signal resolution",
+                    "correct": true
+                },
+                {
+                    "text": "Wireless charging",
+                    "correct": false
+                },
+                {
+                    "text": "Augmented reality integration",
+                    "correct": false
+                },
+                {
+                    "text": "AI-powered predictions",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Which new technology is being used for climate change monitoring?",
+            "options": [
+                {
+                    "text": "Satellites",
+                    "correct": true
+                },
+                {
+                    "text": "Drones",
+                    "correct": false
+                },
+                {
+                    "text": "Wearable sensors",
+                    "correct": false
+                },
+                {
+                    "text": "Smart grids",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "What is the latest development in self-driving cars?",
+            "options": [
+                {
+                    "text": "Improved safety features",
+                    "correct": true
+                },
+                {
+                    "text": "New design models",
+                    "correct": false
+                },
+                {
+                    "text": "Advanced in-car entertainment systems",
+                    "correct": false
+                },
+                {
+                    "text": "Enhanced fuel efficiency",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
